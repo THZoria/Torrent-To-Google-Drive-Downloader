@@ -1,3 +1,11 @@
+# End of support
+
+> **I made this project only to solve a problem that prevented it from working.  
+
+This problem was due to python and a particular module.
+If this module doesn't work anymore, there won't be any support from me.
+
+
 # This whole repo is against Google Colab policy and you shouldn't be using it.
 > **Why are hardware resources such as T4 GPUs not available to me?**
 The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
