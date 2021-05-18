@@ -1,6 +1,6 @@
 # End of support
 
-> **I made this project only to solve a problem that prevented it from working.  
+> **I made this project only to solve a problem that prevented it from working.  **
 
 This problem was due to python and a particular module.
 If this module doesn't work anymore, there won't be any support from me.
